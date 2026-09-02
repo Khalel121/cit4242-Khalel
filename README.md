@@ -6,3 +6,7 @@ Run:
 
 mvnw.cmd clean package
 
+
+
+Java version: 21 
+
